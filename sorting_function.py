@@ -12,3 +12,6 @@ def sorting(l):
                     result.insert(result.index(j), i)
                     break
     return result
+
+my_list = [5, 67, 333, 19, 6, 1]
+print (sorting(my_list))
